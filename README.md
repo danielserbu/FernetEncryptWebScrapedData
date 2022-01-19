@@ -9,9 +9,9 @@
 3. Generates Fernet key, 
 4. Saves files to output directory in both encrypted and decrypted format.
 
-Output states:
-Initial - all_saved_jobs.csv
-Encrypted - encrypted_all_saved_jobs.csv
+Output states: <br />
+Initial - all_saved_jobs.csv <br />
+Encrypted - encrypted_all_saved_jobs.csv <br />
 Decrypted - unencrypted_all_saved_jobs.csv
 
 ![](demo.gif)
